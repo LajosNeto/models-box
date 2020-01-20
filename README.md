@@ -3,21 +3,13 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
 
-<br>
-
-### What?
+## What?
 A collection of many ML models, ready to be used!
 
-<br>
-
-#
-### Models list
+## Models list
 - Handwritten digits (MNIST based)
 
-<br>
-
-#
-### Current converters
+## Current converters
 - CoreML
 - TensorFlow Lite (soon) 
 
